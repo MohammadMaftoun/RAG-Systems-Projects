@@ -1,5 +1,5 @@
 # RAG  Systems Projects
-
+![RAG](https://miro.medium.com/v2/resize:fit:1005/1*diTLYX2NBstoDrSjLglM5g.png)
 Welcome to the RAG Systems Projects repository! This repository houses a collection of projects and resources dedicated to the development, experimentation, and application of Retrieval-Augmented Generation (RAG) systems. RAG systems combine the strengths of information retrieval and generative models to create more accurate and contextually relevant responses in various natural language processing (NLP) tasks.
 
 # Repository Structure
@@ -34,6 +34,7 @@ Welcome to the RAG Systems Projects repository! This repository houses a collect
     Tools for model deployment and serving.
 
 # Getting Started
+Follow these steps to get up and running with RAG systems!!!
 # Prerequisites
 
     Python 3.8+
