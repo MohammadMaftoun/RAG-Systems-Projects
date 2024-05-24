@@ -1,5 +1,5 @@
 # RAG  Systems Projects
-![RAG](https://miro.medium.com/v2/resize:fit:1005/1*diTLYX2NBstoDrSjLglM5g.png)
+![RAG](https://media.licdn.com/dms/image/D5612AQHAUgOuN-nRGw/article-cover_image-shrink_720_1280/0/1713154875629?e=2147483647&v=beta&t=tRJ-XgpaY_WFCcPSPcUvnFDo0QD0YVeeaIlVrGXVWXs)
 Welcome to the RAG Systems Projects repository! This repository houses a collection of projects and resources dedicated to the development, experimentation, and application of Retrieval-Augmented Generation (RAG) systems. RAG systems combine the strengths of information retrieval and generative models to create more accurate and contextually relevant responses in various natural language processing (NLP) tasks.
 
 # Repository Structure
