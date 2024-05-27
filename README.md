@@ -34,7 +34,6 @@ Welcome to the RAG Systems Projects repository! This repository houses a collect
     Tools for model deployment and serving.
 
 # Getting Started
-![RAAG](https://s30.picofile.com/file/8476063542/1715957632603.gif)
 Follow these steps to get up and running with RAG systems!!!
 # Prerequisites
 
