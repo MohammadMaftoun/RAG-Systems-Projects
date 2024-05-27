@@ -1,6 +1,6 @@
 # RAG  Systems Projects
 ![RAG](https://media.licdn.com/dms/image/D5612AQHAUgOuN-nRGw/article-cover_image-shrink_720_1280/0/1713154875629?e=2147483647&v=beta&t=tRJ-XgpaY_WFCcPSPcUvnFDo0QD0YVeeaIlVrGXVWXs)
-Welcome to the RAG Systems Projects repository! This repository houses a collection of projects and resources dedicated to the development, experimentation, and application of Retrieval-Augmented Generation (RAG) systems. RAG systems combine the strengths of information retrieval and generative models to create more accurate and contextually relevant responses in various natural language processing (NLP) tasks.
+Welcome to the RAG Systems Projects repository! This repository houses a collection of projects and resources dedicated to developing, experimenting, and applying Retrieval-Augmented Generation (RAG) systems. RAG systems combine the strengths of information retrieval and generative models to create more accurate and contextually relevant responses in various natural language processing (NLP) tasks.
 
 # Repository Structure
 1. docs/
@@ -34,6 +34,7 @@ Welcome to the RAG Systems Projects repository! This repository houses a collect
     Tools for model deployment and serving.
 
 # Getting Started
+![RAAG](https://s30.picofile.com/file/8476063542/1715957632603.gif)
 Follow these steps to get up and running with RAG systems!!!
 # Prerequisites
 
@@ -56,7 +57,7 @@ bash
 
     pip install -r requirements.txt
 
-    Download the necessary datasets and pre-trained models as per instructions in data/README.md.
+    Please download the necessary datasets and pre-trained models according to the instructions in data/README.md.
 
 # Running Experiments
 
