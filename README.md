@@ -2,6 +2,9 @@
 ![RAG](https://media.licdn.com/dms/image/D5612AQHAUgOuN-nRGw/article-cover_image-shrink_720_1280/0/1713154875629?e=2147483647&v=beta&t=tRJ-XgpaY_WFCcPSPcUvnFDo0QD0YVeeaIlVrGXVWXs)
 Welcome to the RAG Systems Projects repository! This repository houses a collection of projects and resources dedicated to developing, experimenting, and applying Retrieval-Augmented Generation (RAG) systems. RAG systems combine the strengths of information retrieval and generative models to construct more accurate and contextually relevant responses in various natural language processing (NLP) tasks.
 
+# Introduction
+Retrieval Augmented Models (RAGs) have drawn considerable attention from researchers. RAG consists of a state-of-the-art neural retriever called Dense Passage Retrieval (DPR) and the BART seq2seq language model. Compared to conventional two-staged ODQA pipelines, RAG merges the retriever and reader stages into one architecture. Moreover, unlike expensive language models with billions of parameters, where the model’s parametric memory represents complete knowledge, RAG can also extract knowledge from an external knowledge base. Using both parametric and non-parametric memory generally leads to reduced hallucinations and higher interpretability in tasks like question answering and summarization.
+![RAGG](https://miro.medium.com/v2/resize:fit:1005/1*diTLYX2NBstoDrSjLglM5g.png)
 # Repository Structure
 1. docs/
 
